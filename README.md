@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My name is Annie and I'm a Computer Engineering student 👩‍💻at McMaster University :D<br><br>- I’m interested in graphics, game development 🕹️, web development, UI/UX design<br><br>- I’m currently working as a 🌐 Web & Programming Assistant @ McMaster learning web development, korean as a second language, and subject areas pertaining to my school courses<br><br>- My strongest programming languages are Python, Java, and C<br><br>💠Programming Languages💠<br>- Python<br>- Java<br>- Javascript<br>- SQL<br>- R
+Hello! My name is Annie and I'm a Computer Engineering student 👩‍💻at McMaster University :D<br><br>- I’m interested in graphics, game development 🕹️, web development, UI/UX design<br><br>- I’m currently working as a 🌐 Web & Programming Assistant @ McMaster learning web development<br><br>- Self-studying C, C ++ <br><br>💠Programming Languages💠<br>- Python<br>- Java<br>- Javascript<br>- SQL<br>- R
 
 
 ## 🌐 Socials:
