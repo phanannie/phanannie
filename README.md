@@ -1,4 +1,4 @@
-# Hello! My name is Annie 👋 <br><br> I'm a Computer Engineering student 👩‍💻 at McMaster University! # 
+# Hello! I'm Annie 👋 <br><br> I'm a Computer Engineering student 👩‍💻 at McMaster University! # 
 - 🕹️ I’m interested in graphics, game development, web development, UI/UX design
 - 🌐 I’m currently working as a Web & Programming Assistant @ McMaster learning web development
 - 🌱 I’m currently learning everything 😄
